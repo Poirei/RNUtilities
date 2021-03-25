@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170205659639",
+    "project_id": "rn-utilitiesapp",
+    "storage_bucket": "rn-utilitiesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170205659639:android:ab97590d92fbfd6aba6ef2",
+        "android_client_info": {
+          "package_name": "com.rnutilities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170205659639-r2smboqcu6uibdjid2iqib9fr2n2o21l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0kLgN8Ewak-xsqB9pUFEYsPTCWeg9TBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170205659639-r2smboqcu6uibdjid2iqib9fr2n2o21l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
